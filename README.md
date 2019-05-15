@@ -6,7 +6,7 @@ So important points to note is they have around 37 tutoirals or so in the playli
 
 ## [Deep Learning with Tensorflow by Edureka (Youtube)](https://www.youtube.com/watch?v=dafuAz_CV7Q&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg)
 ## Tutorial 1) [What is Deep Learning ¦ Deep Learning Simplified ¦ Deep Learning Tutorial ¦ Edureka](https://youtu.be/dafuAz_CV7Q?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg)
-# Agenda
+## Agenda
 1) What is artificial Intelligence?
 2) What is machine learning?
 3) Limitations of Machine Learning
@@ -14,7 +14,7 @@ So important points to note is they have around 37 tutoirals or so in the playli
 5) What is Deep Learning?
 6) Deep Learning Appliactions
 
-[Tutorial 1 Notes]() contains notes all the important defination discussed as well as examples and diagrams shown.
+[Tutorial 1 Notes](https://github.com/prateekgupta891/deep-learning-with-python-and-tensorflow-tutorial-edureka-/blob/readme-edit/Tutorial%201%20notes.pdf) contains notes all the important defination discussed as well as examples and diagrams shown.
 
 Note: No code is shown in this tutorial.
 
