@@ -1,15 +1,10 @@
-# deep-learning-with-python-tutorial-edureka-
+## deep-learning-with-python-tutorial-edureka-
 This repository contains the important code and description of the tutorial provided by edureka on youtube. This is to help those who love to learn online through open source tutorials.I have started making this repo because i couldn't find one while studying from there tutorials.
 
 The tutorial provided is full of knowledge yet, some most parts have been skipped at a fast pace and no PPTs and source code have been made available by the provider, which is kind of sad.But no worries this tutorial will cover up all that.
 So important points to note is they have around 37 tutoirals or so in the playlist named as deep learning with python, out of which some are just pretty simple and short with no code involoved. I have skipped thoughs videos and some in which they have put a concept on repeat.
 
-## Deep Learning with Tensorflow by Edureka (Youtube)
-https://www.youtube.com/watch?v=dafuAz_CV7Q&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg
-Note:The link to the video playlist.
-
-## Let's start...
-
+## [Deep Learning with Tensorflow by Edureka (Youtube)](https://www.youtube.com/watch?v=dafuAz_CV7Q&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg)
 ## Tutorial 1) [What is Deep Learning ¦ Deep Learning Simplified ¦ Deep Learning Tutorial ¦ Edureka](https://youtu.be/dafuAz_CV7Q?list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg)
 # Agenda
 1) What is artificial Intelligence?
@@ -19,8 +14,9 @@ Note:The link to the video playlist.
 5) What is Deep Learning?
 6) Deep Learning Appliactions
 
+[Tutorial 1 Notes]() contains notes all the important defination discussed as well as examples and diagrams shown.
 
-Description:
+Note: No code is shown in this tutorial.
 
 ## Tutorial 2) [Deep Learning Tutorial ¦ Deep Learning Tutorial for Beginners ¦ Neural Networks ¦ Edureka](https://www.youtube.com/watch?v=nl_4WFHQ4LU&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg&index=2)
 ## Tutorial 3) [TensorFlow Tutorial ¦ Deep Learning Using TensorFlow ¦ TensorFlow Tutorial Python ¦ Edureka](https://www.youtube.com/watch?v=yX8KuPZCAMo&list=PL9ooVrP1hQOEX8BKDplfG86ky8s7Oxbzg&index=3)
