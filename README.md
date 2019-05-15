@@ -1,4 +1,4 @@
-# deep-learing-with-python-tutorial-edureka-
+# deep-learning-with-python-tutorial-edureka-
 This repository contains the important code and description of the tutorial provided by edureka on youtube. This is to help those who love to learn online through open source tutorials.I have started making this repo because i couldn't find one while studying from there tutorials.
 
 The tutorial provided is full of knowledge yet, some most parts have been skipped at a fast pace and no PPTs and source code have been made available by the provider, which is kind of sad.But no worries this tutorial will cover up all that.
